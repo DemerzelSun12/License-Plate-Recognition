@@ -1,6 +1,6 @@
 # License-Plate-Recognition
 
-原是《视听觉信号处理》视觉部分的实验三，当时完成匆促，仅仅使用了基本的图像形态学变换对车牌的形状进行检测。对实验进行了完善，由于尚未系统的学习深度学习相关的知识，因此此处的深度学习训练结果使用开源识别系统[EasyPR](https://github.com/liuruoze/EasyPR)。
+原是《视听觉信号处理》视觉部分的实验三，当时完成匆促，仅仅使用了基本的图像形态学变换对车牌的形状进行检测。课程结束后对实验进行了完善，由于尚未系统的学习深度学习相关的知识，因此此处的深度学习训练结果使用开源识别系统[EasyPR](https://github.com/liuruoze/EasyPR)。
 
 基于opencv3实现的车牌识别，包括算法和客户端界面，[surface.py](./surface.py)是界面代码，[predict.py](./predict.py)是算法代码。
 
